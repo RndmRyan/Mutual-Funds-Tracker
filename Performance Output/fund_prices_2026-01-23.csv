@@ -1,0 +1,41 @@
+statement_date,category,fund_group,fund_name,launch_date,validity_date,repurchase_rs,offer_rs,nav_rs,nav_source,load_marker,fund_note_marker,return_mtd_pct,return_fytd_pct,return_cytd_pct,return_fy25_pct,return_fy24_pct,return_since_inception_pct
+2026-01-23,Money Market Fund,,Meezan Cash Fund,2009-06-15,2026-01-23,,,54.1642,NAV (Rs.),nav_rs*,,9.17,9.38,9.17,13.34,21.27,21.42
+2026-01-23,Money Market Fund,,Meezan Rozana Amdani Fund,2018-12-26,2026-01-23,,,50.0,NAV (Rs.),,***,9.0,9.25,9.0,13.62,21.5,18.55
+2026-01-23,Fixed Income Funds,,Meezan Islamic Income Fund Type B Units,2007-01-15,2026-01-23,54.4175,55.0433,54.4175,Repurchase (Rs.),,,8.9,8.99,8.9,12.54,21.0,26.16
+2026-01-23,Fixed Income Funds,,Meezan Islamic Income Fund Type C Units,2007-01-15,2026-01-23,54.4175,54.4175,54.4175,Repurchase (Rs.),repurchase_rs*,,8.9,8.99,8.9,12.54,21.0,26.16
+2026-01-23,Fixed Income Funds,,Meezan Sovereign Fund,2010-02-10,2026-01-23,54.8508,55.4815,54.8508,Repurchase (Rs.),,,9.89,8.69,9.89,12.0,21.95,20.54
+2026-01-23,Fixed Income Funds,,Meezan Daily Income Plan I,2021-09-13,2026-01-23,50.0,50.575,50.0,Repurchase (Rs.),,****,8.92,9.24,8.92,13.38,21.78,19.31
+2026-01-23,Fixed Income Funds,,Meezan Daily Income Fund MMMP,2022-10-29,2026-01-23,,,50.0,NAV (Rs.),,**,8.29,9.19,8.29,11.15,20.0,16.91
+2026-01-23,Fixed Income Funds,,MDIF-Meezan Sehl Account Plan,2023-06-19,2026-01-26,,,52.8288,NAV (Rs.),,,7.75,8.2,7.75,10.34,20.21,15.09
+2026-01-23,Fixed Income Funds,,MDIF-Meezan Munafa Plan-I,2023-08-29,2026-01-23,53.1714,53.7828,53.1714,Repurchase (Rs.),,,9.37,9.78,9.37,12.95,21.71,16.98
+2026-01-23,Fixed Income Funds,,MDIF-Meezan Super Saver Plan,2024-04-26,2026-01-23,,,52.9809,NAV (Rs.),,,8.82,9.15,8.82,12.75,18.86,12.94
+2026-01-23,Open End CIS As Per SECP's Circular No.3 Of 2022,,MFTF-Meezan Paidaar Munafa Plan-XXXI,2025-11-20,2026-01-22,,,50.9064,NAV (Rs.),,,10.38,10.5,10.38,0.0,0.0,10.5
+2026-01-23,Open End CIS As Per SECP's Circular No.3 Of 2022,,MFTF-Meezan Paidaar Munafa Plan-XXXIII,2025-12-26,2026-01-22,,,50.388,NAV (Rs.),,,10.1,10.12,10.1,0.0,0.0,10.12
+2026-01-23,Open End CIS As Per SECP's Circular No.3 Of 2022,,MFTF-Meezan Paidaar Munafa Plan-35,2026-01-16,2026-01-22,,,50.0935,NAV (Rs.),,,9.75,9.75,9.75,0.0,0.0,9.75
+2026-01-23,Open End CIS As Per SECP's Circular No.3 Of 2022,,MFTF-Meezan Paidaar Munafa Plan-36,2026-01-16,2026-01-22,,,50.0911,NAV (Rs.),,,9.5,9.5,9.5,0.0,0.0,9.5
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,MFPF-Aggressive Allocation Plan,2013-04-11,2026-01-22,193.0158,197.4551,193.0158,Repurchase (Rs.),,,4.3,28.82,4.3,47.75,55.25,475.39
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,MFPF-Moderate Allocation Plan,2013-04-11,2026-01-22,151.129,153.7359,151.129,Repurchase (Rs.),,,3.35,20.87,3.35,36.25,45.88,412.4
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,MFPF-Conservative Allocation Plan,2013-04-11,2026-01-22,123.7858,125.2093,123.7858,Repurchase (Rs.),,,1.9,12.46,1.9,23.76,32.52,294.88
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,MFPF-Very Conservative Allocation Plan,2023-08-22,2026-01-22,53.4473,54.0619,53.4473,Repurchase (Rs.),,,8.76,9.01,8.76,10.62,19.43,14.7
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,Meezan Asset Allocation Plan-I,2015-07-10,2026-01-22,153.7834,,153.7834,Repurchase (Rs.),,,4.95,27.66,4.95,46.45,49.92,281.36
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,Meezan Strategic Allocation Plan-I,2016-10-20,2026-01-22,101.4272,,101.4272,NAV (Rs.),,,4.58,26.02,4.58,50.03,48.52,193.33
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,Meezan Strategic Allocation Plan-II,2016-12-21,2026-01-22,87.2544,,87.2544,NAV (Rs.),,,4.93,27.75,4.93,49.58,49.26,168.09
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,Meezan Strategic Allocation Plan-III,2017-02-20,2026-01-22,96.6621,,96.6621,NAV (Rs.),,,4.82,27.13,4.82,47.12,48.55,154.25
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,Meezan Strategic Allocation Plan-IV,2017-04-20,2026-01-22,101.408,,101.408,NAV (Rs.),,,4.83,26.87,4.83,45.49,48.28,156.35
+2026-01-23,Fund of Funds,Meezan Financial Planning Fund of Fund,Meezan Strategic Allocation Plan-V,2017-08-10,2026-01-22,114.2892,,114.2892,NAV (Rs.),,,4.85,27.09,4.85,44.09,46.72,185.71
+2026-01-23,Equity Funds,,Al Meezan Mutual Fund,1995-07-13,2026-01-23,54.8669,56.1288,54.8669,Repurchase (Rs.),,,6.74,37.57,6.74,64.7,74.84,10364.12
+2026-01-23,Equity Funds,,Meezan Islamic Fund,2003-08-08,2026-01-23,180.6846,184.8403,180.6846,Repurchase (Rs.),,,7.45,40.06,7.45,59.22,73.0,2676.62
+2026-01-23,Equity Funds,,KSE Meezan Index Fund,2012-05-23,2026-01-23,202.817,207.9888,202.817,Repurchase (Rs.),,,8.38,45.27,8.38,43.52,75.02,753.94
+2026-01-23,Equity Funds,,Meezan Energy Fund,2016-11-29,2026-01-23,68.4075,70.7675,68.4075,Repurchase (Rs.),,,8.27,38.23,8.27,53.99,86.79,161.12
+2026-01-23,Equity Funds,,Meezan Dedicated Equity Fund,2017-10-09,2026-01-23,103.4035,106.9709,103.4035,Repurchase (Rs.),,,5.84,35.64,5.84,65.72,74.9,89.75
+2026-01-23,Balanced Fund,,Meezan Balanced Fund,2004-12-20,2026-01-23,29.2012,29.8728,29.2012,Repurchase (Rs.),,,4.07,22.65,4.07,36.6,43.38,1526.32
+2026-01-23,Asset Allocation Fund,,Meezan Asset Allocation Fund,2016-04-20,2026-01-23,126.4882,130.852,126.4882,Repurchase (Rs.),,,5.66,33.12,5.66,58.21,60.44,111.09
+2026-01-23,Asset Allocation Fund,,MDAAF-Meezan Dividend Yield Plan (MDYP),2024-08-28,2026-01-23,97.1517,99.3861,97.1517,Repurchase (Rs.),,,9.53,43.26,9.53,45.92,0.0,43.26
+2026-01-23,Commodity Fund,,Meezan Gold Fund,2015-08-13,2026-01-22,300.09,313.1241,303.1212,NAV (Rs.),,,7.66,31.47,7.66,42.72,5.38,593.29
+2026-01-23,Voluntary Pension Scheme,Meezan Tahaffuz Pension Fund,MTPF-Equity sub Fund,2007-06-28,2026-01-23,,,1965.2584,NAV (Rs.),,,6.71,37.65,6.71,65.72,77.07,1865.26
+2026-01-23,Voluntary Pension Scheme,Meezan Tahaffuz Pension Fund,MTPF-Debt sub Fund,2007-06-28,2026-01-23,,,507.4865,NAV (Rs.),,,9.61,9.44,9.61,14.38,20.84,21.92
+2026-01-23,Voluntary Pension Scheme,Meezan Tahaffuz Pension Fund,MTPF-Money Market sub Fund,2007-06-28,2026-01-23,,,504.9909,NAV (Rs.),,,9.72,9.7,9.72,15.43,22.12,21.79
+2026-01-23,Voluntary Pension Scheme,Meezan Tahaffuz Pension Fund,MTPF-Gold sub Fund,2016-08-04,2026-01-22,,,562.4191,NAV (Rs.),,,7.59,30.76,7.59,39.51,5.36,462.42
+2026-01-23,Voluntary Pension Scheme,Meezan GOKP Pension Fund,MGOKPPF-Money Market sub Fund,2023-12-14,2026-01-23,,,137.7075,NAV (Rs.),,,12.8,11.0,12.8,15.77,21.75,17.85
+2026-01-23,Voluntary Pension Scheme,Meezan Islamic Govt of Punjab Pension Fund-MMSF,MIGOPPF-MMSF,2025-11-21,2026-01-23,,,101.7109,NAV (Rs.),,,9.72,9.91,9.72,0.0,0.0,9.91
+2026-01-23,Exchange Traded Fund,,Meezan Pakistan Exchange Traded Fund,2020-10-06,2026-01-26,,,23.1569,NAV (Rs.),,,9.99,49.07,9.99,31.76,85.78,141.92
